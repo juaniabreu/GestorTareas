@@ -55,9 +55,7 @@ public class Tarea {
 		this.complete = complete;
 	}
 	
-	void testGitHub() {
-		
-	}
+	
 	
 	
 }
